@@ -11,6 +11,10 @@
     "process",
     "env"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lochbrunner/node-red-contrib-env.git"
+  },
   "node-red": {
     "nodes": {
       "env": "nodes/env.js"
