@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-env",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node-RED Node to read environment variables.",
   "main": "./nodes/env.js",
   "scripts": {
